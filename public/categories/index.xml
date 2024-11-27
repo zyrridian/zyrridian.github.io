@@ -6,6 +6,8 @@
     <description>Recent content in Categories on zyrridian blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <managingEditor>rezkyaf246@gmail.com (blog)</managingEditor>
+    <webMaster>rezkyaf246@gmail.com (blog)</webMaster>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
