@@ -1,6 +1,5 @@
 +++
 date = '2024-11-27T09:45:08+07:00'
-draft = true
 title = 'Exploring Quantum Entanglement'
 +++
 

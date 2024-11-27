@@ -1,6 +1,5 @@
 +++
 date = '2024-11-27T09:42:53+07:00'
-draft = true
 title = 'The Mystery of Antikythera Mechanism'
 +++
 

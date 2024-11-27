@@ -1,6 +1,5 @@
 +++
 date = '2024-11-27T09:41:38+07:00'
-draft = true
 title = 'The Immortal Jellyfish'
 +++
 

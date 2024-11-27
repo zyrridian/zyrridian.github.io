@@ -1,6 +1,5 @@
 +++
 date = '2024-11-27T09:38:55+07:00'
-draft = true
 title = 'Why is The Sky Blue?'
 +++
 
