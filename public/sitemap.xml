@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/quantum_entanglement/</loc>
+    <lastmod>2024-11-27T09:45:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-27T09:45:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-27T09:45:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/largest_organism/</loc>
+    <lastmod>2024-11-27T09:44:09+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/antikythera_organism/</loc>
+    <lastmod>2024-11-27T09:42:53+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/immortal_jellyfish/</loc>
+    <lastmod>2024-11-27T09:41:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why_sky_is_blue/</loc>
+    <lastmod>2024-11-27T09:38:55+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
